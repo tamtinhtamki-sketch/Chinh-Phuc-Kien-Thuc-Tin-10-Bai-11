@@ -1,0 +1,352 @@
+{
+  "lesson": {
+    "title": "Bài 11: Ứng xử trên môi trường số. Nghĩa vụ tôn trọng bản quyền",
+    "subject": "Tin học 10 - Kết nối tri thức với cuộc sống",
+    "topic": "Chủ đề 3: Đạo đức, pháp luật và văn hoá trong môi trường số",
+    "targetAudience": "Học sinh lớp 10 THPT"
+  },
+  "part1_word_search": {
+    "gridSize": 20,
+    "source": "Ghi nhớ trang 56 SGK Tin học 10 KNTT",
+    "keywords": [
+      {
+        "id": "kw1",
+        "phrase": "Đưa tin không phù hợp lên mạng",
+        "code": "DUATINKHONGPHUHOP",
+        "category": "Pháp luật & Đạo đức",
+        "clue": "Bao gồm cả việc đăng bài và chia sẻ lại các tin bài có nội dung sai lệch, gây hoang mang hoặc độc hại."
+      },
+      {
+        "id": "kw2",
+        "phrase": "Công bố thông tin cá nhân không được phép",
+        "code": "CONGBOTHONGTINCANHAN",
+        "category": "Pháp luật",
+        "clue": "Đăng tải hình ảnh, đời tư, địa chỉ cá nhân người khác lên mạng khi chưa được phép gây ảnh hưởng uy tín."
+      },
+      {
+        "id": "kw3",
+        "phrase": "Phát tán thư điện tử, tin nhắn rác",
+        "code": "PHATTANTHUDIENTURAC",
+        "category": "Pháp luật",
+        "clue": "Gửi hàng loạt thư quảng cáo, tin nhắn mà người nhận không muốn nhận, gây quấy nhiễu."
+      },
+      {
+        "id": "kw4",
+        "phrase": "Vi phạm bản quyền",
+        "code": "VIPHAMBANQUYEN",
+        "category": "Pháp luật",
+        "clue": "Sử dụng phần mềm lậu, crack bẻ khoá, sao chép trái phép dữ liệu và tác phẩm số."
+      },
+      {
+        "id": "kw5",
+        "phrase": "Bắt nạt qua mạng",
+        "code": "BATNATQUAMANG",
+        "category": "Đạo đức & Văn hoá",
+        "clue": "Sử dụng không gian mạng để công kích, bêu xấu, cô lập nạn nhân (Cyberbullying)."
+      },
+      {
+        "id": "kw6",
+        "phrase": "Ứng xử thiếu văn hoá",
+        "code": "UNGXUTHIEUVANHOA",
+        "category": "Văn hoá",
+        "clue": "Tranh luận thô tục, công kích, xúc phạm nhau trên diễn đàn và mạng xã hội."
+      }
+    ]
+  },
+  "part2_quiz": [
+    {
+      "id": "q1",
+      "question": "Một trong những trách nhiệm quan trọng nhất của người đưa tin lên Internet theo SGK Tin 10 KNTT là gì?",
+      "options": [
+        "A. Đảm bảo tốc độ truyền tải thông tin nhanh nhất",
+        "B. Đảm bảo tính đúng đắn của thông tin",
+        "C. Thu hút nhiều lượt tương tác, chia sẻ và bình luận",
+        "D. Giữ bí mật tuyệt đối danh tính người đăng tải"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "SGK Tin học 10 KNTT - Mục 2b Trang 57"
+    },
+    {
+      "id": "q2",
+      "question": "Theo Điều 12 khoản 2 của Luật Công nghệ thông tin (2006), hành vi nào sau đây bị nghiêm cấm?",
+      "options": [
+        "A. Xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự, nhân phẩm của công dân",
+        "B. Phổ biến kiến thức khoa học công nghệ và kỹ năng số cho cộng đồng",
+        "C. Tham gia học tập trực tuyến và tra cứu tài liệu học thuật",
+        "D. Trao đổi thông tin phục vụ công việc và học tập"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Điều 12 khoản 2 - Luật Công nghệ thông tin (2006)"
+    },
+    {
+      "id": "q3",
+      "question": "Người chia sẻ lại tin giả mạo 'toàn thành phố sẽ phong toả 14 ngày' nhưng không tự bịa ra thì có vi phạm pháp luật không?",
+      "options": [
+        "A. Không vi phạm vì không phải người tạo ra tin đồn",
+        "B. Có vi phạm pháp luật, chia sẻ tin giả là tiếp tay cho việc tung tin giả",
+        "C. Chỉ vi phạm nội quy mạng xã hội",
+        "D. Chỉ bị phê bình nếu xoá bài sau đó"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Điều 101 Nghị định 15/2020/NĐ-CP & SGK Trang 58"
+    },
+    {
+      "id": "q4",
+      "question": "Hành vi quảng cáo sai sự thật về tác dụng chữa bệnh của một loại thuốc thảo dược trên mạng xã hội sẽ bị xử phạt theo văn bản pháp luật nào?",
+      "options": [
+        "A. Không bị phạt vì quảng cáo là tự do kinh doanh cá nhân",
+        "B. Bị phạt theo Điều 101 khoản 1 Nghị định 15/2020/NĐ-CP",
+        "C. Chỉ bị nhắc nhở nếu chưa có bệnh nhân nào khiếu nại",
+        "D. Chỉ phải bồi thường tiền mua thuốc cho người tiêu dùng"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Điều 101 khoản 1 - Nghị định 15/2020/NĐ-CP"
+    },
+    {
+      "id": "q5",
+      "question": "Điều 8 khoản 1 trong Luật An ninh mạng (2018) nghiêm cấm sử dụng không gian mạng để thực hiện hành vi nào sau đây?",
+      "options": [
+        "A. Tổ chức họp và học tập trực tuyến trên các nền tảng mạng",
+        "B. Xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, phá hoại khối đại đoàn kết toàn dân tộc",
+        "C. Quảng bá hình ảnh văn hóa, con người Việt Nam đến bạn bè quốc tế",
+        "D. Kinh doanh hàng hóa được cấp phép thương mại điện tử"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Điều 8 khoản 1 điểm c - Luật An ninh mạng 2018"
+    },
+    {
+      "id": "q6",
+      "question": "Hành vi nào sau đây liên quan đến bản đồ Việt Nam bị nghiêm cấm theo Nghị định 15/2020/NĐ-CP?",
+      "options": [
+        "A. Đăng bản đồ giao thông đô thị",
+        "B. Cung cấp, chia sẻ hình ảnh bản đồ Việt Nam nhưng không thể hiện hoặc thể hiện không đúng chủ quyền quốc gia",
+        "C. Sử dụng bản đồ vệ tinh để học môn Địa lí",
+        "D. Tải bản đồ thế giới về máy tính tra cứu"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Điều 101 khoản 1 điểm g - Nghị định 15/2020/NĐ-CP"
+    },
+    {
+      "id": "q7",
+      "question": "Hành vi chia sẻ đường dẫn (link) dẫn đến thông tin có nội dung bị cấm trên mạng xã hội bị xử lý như thế nào?",
+      "options": [
+        "A. Không bị phạt vì chỉ chia sẻ link",
+        "B. Bị xử phạt vi phạm hành chính tương tự như hành vi phát tán thông tin bị cấm",
+        "C. Chỉ bị phạt nếu đường link do chính mình tạo ra",
+        "D. Được bảo vệ theo quyền tự do kết nối"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Điều 101 khoản 1 điểm h - Nghị định 15/2020/NĐ-CP"
+    },
+    {
+      "id": "q8",
+      "question": "Bộ Thông tin và Truyền thông ban hành Bộ Quy tắc ứng xử trên mạng xã hội theo văn bản nào?",
+      "options": [
+        "A. Quyết định số 874/QĐ-BTTTT ngày 17/6/2021",
+        "B. Luật An ninh mạng 2018",
+        "C. Nghị định số 72/2013/NĐ-CP",
+        "D. Thông tư liên tịch số 01/2020"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Quyết định số 874/QĐ-BTTTT (17/6/2021)"
+    },
+    {
+      "id": "q9",
+      "question": "Bộ Quy tắc ứng xử trên mạng xã hội KHUYẾN KHÍCH người dùng làm điều gì?",
+      "options": [
+        "A. Dùng tên thật, chia sẻ thông tin tích cực và quảng bá hình ảnh đất nước Việt Nam",
+        "B. Dùng nick ảo để tranh luận công kích",
+        "C. Tải tất cả tài liệu bản quyền lên trang cá nhân",
+        "D. Chia sẻ ngay các tin tức giật gân chưa kiểm chứng"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Bộ Quy tắc ứng xử MXH - SGK Trang 58"
+    },
+    {
+      "id": "q10",
+      "question": "Nghị định nào của Chính phủ quy định cụ thể về việc chống thư rác?",
+      "options": [
+        "A. Nghị định 90/2008/NĐ-CP ngày 13/8/2008",
+        "B. Luật Giao dịch điện tử 2005",
+        "C. Luật An ninh mạng 2018",
+        "D. Nghị định 15/2020/NĐ-CP"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Nghị định 90/2008/NĐ-CP - SGK Trang 57"
+    },
+    {
+      "id": "q11",
+      "question": "Công bố thông tin cá nhân của người khác lên mạng không được phép gây ảnh hưởng uy tín là:",
+      "options": [
+        "A. Hành vi hợp pháp",
+        "B. Hành vi vi phạm pháp luật",
+        "C. Đùa vui vô hại",
+        "D. Vi phạm bản quyền sản phẩm tin học"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "SGK Tin học 10 KNTT - Trang 56"
+    },
+    {
+      "id": "q12",
+      "question": "Nghị định nào quy định về quản lý, cung cấp và sử dụng dịch vụ Internet và thông tin trên mạng?",
+      "options": [
+        "A. Nghị định 72/2013/NĐ-CP ngày 15/7/2013",
+        "B. Nghị định 90/2008/NĐ-CP",
+        "C. Nghị định 131/2013/NĐ-CP",
+        "D. Quyết định 874/QĐ-BTTTT"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Nghị định 72/2013/NĐ-CP - SGK Trang 57"
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao tin tức xấu hoặc sai lệch trên mạng có xu hướng gây hậu quả trầm trọng hơn so với đời thực?",
+      "options": [
+        "A. Vì chỉ có người lớn sử dụng mạng",
+        "B. Vì tin tức phát tán nhanh, diện rộng, lưu trữ lâu dài và có tính ẩn danh",
+        "C. Vì người dùng mạng tin tưởng tuyệt đối mọi bài viết",
+        "D. Vì pháp luật chưa có chế tài"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "SGK Tin học 10 KNTT - Trang 56"
+    },
+    {
+      "id": "q14",
+      "question": "Ngay cả khi một thông tin không vi phạm pháp luật, người đăng vẫn cần lưu ý điều gì?",
+      "options": [
+        "A. Cân nhắc hậu quả về mặt đạo đức và các chuẩn mực đạo đức xã hội",
+        "B. Đăng ngay không cần suy nghĩ",
+        "C. Chia sẻ vào nhiều nhóm kín",
+        "D. Đổi tên nick thành vô danh"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Nguyên tắc an toàn - SGK Trang 58"
+    },
+    {
+      "id": "q15",
+      "question": "Nghị định 15/2020/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực nào?",
+      "options": [
+        "A. Lĩnh vực giao thông",
+        "B. Bưu chính, viễn thông, tần số vô tuyến điện, CNTT và giao dịch điện tử",
+        "C. Quản lý thị trường hàng hóa xuất nhập khẩu",
+        "D. Môi trường đô thị"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Nghị định 15/2020/NĐ-CP - SGK Trang 57"
+    },
+    {
+      "id": "q16",
+      "question": "Quay clip nữ sinh đánh nhau rồi đưa lên mạng xã hội là hành vi gì?",
+      "options": [
+        "A. Không vi phạm vì chỉ quay lại sự việc",
+        "B. Vừa vi phạm đạo đức (cổ vũ bạo lực), vừa có thể vi phạm pháp luật (làm nhục người khác)",
+        "C. Đáng được khen thưởng vì báo tin",
+        "D. Vi phạm nội quy trường học đơn thuần"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "Hoạt động 1 - SGK Trang 55-56"
+    },
+    {
+      "id": "q17",
+      "question": "Điều 101 khoản 1 điểm c Nghị định 15/2020/NĐ-CP nghiêm cấm hành vi nào sau đây?",
+      "options": [
+        "A. Cung cấp, chia sẻ thông tin miêu tả tỉ mỉ hành động chém, giết, tai nạn kinh dị, rùng rợn",
+        "B. Chia sẻ mẹo học tập tốt",
+        "C. Đóng góp ý kiến trên diễn đàn",
+        "D. Tải tài liệu học tập miễn phí"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Điều 101 khoản 1 điểm c - NĐ 15/2020/NĐ-CP"
+    },
+    {
+      "id": "q18",
+      "question": "Gửi tin nhắn quảng cáo (thư rác) trở thành hành vi vi phạm pháp luật khi nào?",
+      "options": [
+        "A. Khi gửi cho 1 người bất kỳ",
+        "B. Khi người nhận đã phản ứng từ chối mà vẫn tiếp tục gửi quấy nhiễu",
+        "C. Khi nội dung có kèm hình ảnh",
+        "D. Khi gửi vào ban đêm"
+      ],
+      "correctAnswer": "B",
+      "lawBasis": "SGK Tin học 10 KNTT - Trang 56"
+    },
+    {
+      "id": "q19",
+      "question": "Trong các ý kiến sau, đâu là thái độ đúng đắn nhất khi chia sẻ thông tin trên mạng?",
+      "options": [
+        "A. Được đăng tất cả tin miễn không phải tin giả",
+        "B. Được đăng tất cả tin miễn không hại ai",
+        "C. Được đăng các tin hợp pháp, đồng thời cân nhắc tính xác thực và chuẩn mực đạo đức xã hội",
+        "D. Được tự do đăng bất cứ điều gì"
+      ],
+      "correctAnswer": "C",
+      "lawBasis": "Luyện tập 1 - SGK Trang 62"
+    },
+    {
+      "id": "q20",
+      "question": "Mức phạt tiền đối với tổ chức cung cấp, chia sẻ thông tin giả mạo, sai sự thật theo Điều 101 Nghị định 15/2020/NĐ-CP là:",
+      "options": [
+        "A. Từ 10.000.000 đồng đến 20.000.000 đồng",
+        "B. Từ 100.000 đến 200.000 đồng",
+        "C. Không phạt tiền",
+        "D. Từ 500 triệu đến 1 tỷ đồng"
+      ],
+      "correctAnswer": "A",
+      "lawBasis": "Điều 101 Nghị định 15/2020/NĐ-CP"
+    }
+  ],
+  "part3_card_matching": {
+    "key_terms": [
+      {
+        "term": "Quyền tác giả",
+        "definition": "Là quyền của tổ chức, cá nhân đối với tác phẩm do mình sáng tạo ra hoặc sở hữu (gồm quyền nhân thân và quyền tài sản)."
+      },
+      {
+        "term": "Quyền nhân thân",
+        "definition": "Đặt tên cho tác phẩm, đứng tên thật/bút danh, nêu tên khi công bố, công bố tác phẩm, bảo vệ sự toàn vẹn của tác phẩm cấm cắt xén."
+      },
+      {
+        "term": "Quyền tài sản",
+        "definition": "Khai thác kinh tế: Làm tác phẩm phái sinh, sao chép tác phẩm, truyền đạt đến công chúng, cho thuê bản gốc/sao chương trình máy tính."
+      },
+      {
+        "term": "Sản phẩm tin học",
+        "definition": "Chương trình máy tính, phần mềm, cơ sở dữ liệu số; đặc điểm dễ sao chép với chi phí thấp và dễ phát tán quy mô lớn."
+      },
+      {
+        "term": "Vi phạm bản quyền",
+        "definition": "Hành vi sao chép, bẻ khoá, phân phối, chiếm đoạt mã nguồn tác phẩm số mà không được phép của tác giả hoặc chủ sở hữu."
+      },
+      {
+        "term": "Giấy phép sử dụng (Licence)",
+        "definition": "Quyền sử dụng phần mềm tính theo số máy cài đặt. Người mua chỉ mua quyền sử dụng chứ không sở hữu bản quyền tác phẩm."
+      }
+    ],
+    "scenarios": [
+      {
+        "title": "Hoàng mua USB nhạc lậu",
+        "character": "Hoàng",
+        "situation": "Mua USB giá rẻ chứa video nhạc lậu tải từ mạng.",
+        "verdict": "Người bán vi phạm quyền sao chép; Hoàng tiếp tay tiêu thụ sản phẩm xâm phạm bản quyền."
+      },
+      {
+        "title": "Lan cài phần mềm cho máy bạn",
+        "character": "Lan",
+        "situation": "Mua đĩa phần mềm bản quyền 1 máy rồi cài thêm cho máy thứ hai của bạn.",
+        "verdict": "Vi phạm bản quyền vì cài vượt quá số máy quy định trong licence."
+      },
+      {
+        "title": "Bẻ khóa crack phần mềm để thử tài",
+        "character": "Thành",
+        "situation": "Tự crack phần mềm đắt tiền chỉ để thử khả năng lập trình chứ không dùng.",
+        "verdict": "Vi phạm pháp luật theo Nghị định 131/2013/NĐ-CP (cố ý vô hiệu hoá biện pháp kỹ thuật)."
+      },
+      {
+        "title": "Nhận thức không biết là không có lỗi",
+        "character": "Bình",
+        "situation": "Dùng phần mềm lậu và bảo không biết luật nên không có lỗi.",
+        "verdict": "Sai lầm; không hiểu biết luật không phải là lý do miễn trừ trách nhiệm."
+      }
+    ]
+  }
+}

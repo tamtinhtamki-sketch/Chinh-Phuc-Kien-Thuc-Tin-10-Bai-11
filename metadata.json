@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Học Tập Tin Học 10 - Bài 11 KNTT",
+  "description": "Ứng dụng trò chơi giải đố, mật mã ô chữ, trắc nghiệm pháp lý và ghép thẻ bản quyền Bài 11 Tin học 10 Kết nối tri thức có bảng xếp hạng và vòng quay gọi tên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
